@@ -1,0 +1,45 @@
+{
+    "headers": {},
+    "pluginContext": {
+        "apiVersion": "sit amet proident enim incididunt",
+        "appInstanceSettings": {
+            "apiVersion": "mollit",
+            "decryptedSecureJsonData": {
+                "ex ut fugiat": "elit Duis fugiat",
+                "Excepteur irure": "et aliquip ad in non",
+                "minim tempor Lorem nisi sed": "in dolore ut cupidatat labore"
+            },
+            "jsonData": "SGVsbG8gV29ybGQ=",
+            "lastUpdatedMS": "59134434865"
+        },
+        "dataSourceInstanceSettings": {
+            "apiVersion": "nulla ipsum",
+            "basicAuthEnabled": true,
+            "basicAuthUser": "dolore consequat aliquip fugiat",
+            "database": "minim laboris",
+            "decryptedSecureJsonData": {
+                "cupidatat commodo": "fugiat tempor consectetur cupidatat",
+                "esse eiusmod reprehenderit quis": "commodo ullamco Ut",
+                "voluptate occaecat Excepteur": "cupidatat aliqua ea ipsum laboris"
+            },
+            "id": "307783519",
+            "jsonData":"eyJzZXR0aW5ncyI6IFsKICAgIHsibmFtZSI6ICJob3N0IiwgInZhbHVlIjogImxvY2FsaG9zdCJ9LAogICAgeyJuYW1lIjogInBvcnQiLCAidmFsdWUiOiAiMzMwNiJ9LAogICAgeyJuYW1lIjogInVzZXJuYW1lIiwgInZhbHVlIjogImdyYWZhbmEifSwKICAgIHsibmFtZSI6ICJwYXNzd29yZCIsICJ2YWx1ZSI6ICJwYXNzd29yZCJ9LAogICAgeyJuYW1lIjogInR5cGUiLCAidmFsdWUiOiAibXlzcWwifSwKICAgIHsibmFtZSI6ICJkYXRhYmFzZSIsICJ2YWx1ZSI6ICJncmFmYW5hIn0KXX0=",
+            "lastUpdatedMS": "2972502",
+            "name": "cillum fugiat ut",
+            "uid": "mollit Lorem qui",
+            "url": "laborum consectetur non in",
+            "user": "sunt proident exercitation do"
+        },
+        "grafanaConfig": {},
+        "orgId": "918408270",
+        "pluginId": "aute",
+        "pluginVersion": "est officia ad fugiat veniam",
+        "user": {
+            "email": "amet ut Ut",
+            "login": "proident",
+            "name": "laboris",
+            "role": "et in mollit"
+        },
+        "userAgent": "officia do velit sunt magna"
+    }
+}

@@ -1,0 +1,8 @@
+#!/bin/sh
+java --add-opens=java.base/java.nio=org.apache.arrow.memory.core,ALL-UNNAMED -jar "/var/lib/grafana/plugins/db2-datasource/db2-datasource-0.0.5-SNAPSHOT.jar" &
+# TODO - run native imexe from GraalVM. This is just an exqmple using java
+# TODO - provide a way to set the port
+# TODO - set env var in the code
+# export ARROW_ALLOCATION_MANAGER_TYPE=Netty
+# /var/lib/grafana/plugins/db2-datasource/db2-datasource &
+echo "1|2|tcp|localhost:9090|grpc"

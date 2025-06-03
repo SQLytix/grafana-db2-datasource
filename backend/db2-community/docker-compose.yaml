@@ -1,0 +1,28 @@
+services:
+  db2:
+    image: icr.io/db2_community/db2
+    platform: linux/amd64
+    container_name: db2Server
+    privileged: true
+    environment:
+      LICENSE: "accept"
+      # DB2INSTANCE: "db2inst1"
+      DB2INST1_PASSWORD: "db2pw"
+      DBNAME: "test"
+      BLU: "false"
+      ENABLE_ORACLE_COMPATIBILITY: "false"
+      UPDATEVAIL: "NO"
+      TO_CREATE_SAMPLEDB: "false"
+      REPODB: "false"
+      IS_OSXFS: "true"
+      PERSISTENT_HOME: "false"
+      HADR_ENABLED: "false"
+      ETCD_ENDPOINT: ""
+      ETCD_USERNAME: ""
+      ETCD_PASSWORD: ""
+    volumes: 
+       - ./database:/database
+       - ./db2_data:/db2_data
+      #  - ./tmp:/tmp
+    ports:
+      - 50000:50000

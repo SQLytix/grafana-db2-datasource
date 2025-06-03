@@ -1,0 +1,8 @@
+{"settings": [
+    {"name": "host", "value": "localhost"},
+    {"name": "port", "value": "3306"},
+    {"name": "username", "value": "grafana"},
+    {"name": "password", "value": "password"},
+    {"name": "type", "value": "mysql"},
+    {"name": "database", "value": "grafana"}
+]}

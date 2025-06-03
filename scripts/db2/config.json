@@ -1,0 +1,11 @@
+{
+  "type": "db2",
+  "settings": [
+    { "name": "host", "value": "host.docker.internal" },
+    { "name": "port", "value": "50000" },
+    { "name": "username", "value": "db2inst1" },
+    { "name": "password", "value": "db2pw", "secure": true },
+    { "name": "database", "value": "sample" },
+    { "name": "type", "value": "db2" }
+  ]
+}
